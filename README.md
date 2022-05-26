@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Papun Kumar</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
-<img align="left" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif" alt="gif" srcset="">
+<h3 align="middle">A passionate Full Stack Java developer from India</h3>
+<img class="img-fluid" align="left" width="1080" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif" alt="gif" srcset="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papunkumardas&label=Profile%20views&color=0e75b6&style=flat" alt="papunkumardas" /> </p>
 
