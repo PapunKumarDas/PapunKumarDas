@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm <span style="color:blue">Papun Kumar</span></h1>
 <h3 align="middle">A passionate Full Stack Java developer from India</h3>
 <img class="img-fluid" align="left" width="1080" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif" alt="gif" srcset="">
